@@ -87,7 +87,7 @@
                 <div class="links">
                     <a>Forum (coming soon)</a>
                     <a href="http://csun-asa.org/">Current Website</a>
-                    <a href="https://github.com/laravel/laravel">Code Documentation</a>
+                    <a href="https://github.com/JayJayAquino/csunASA_forum">Code Documentation</a>
                 </div>
             </div>
         </div>
